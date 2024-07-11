@@ -1,0 +1,3 @@
+package configs
+
+var JWT_SECRET = []byte("FA9F2A3BB5BEADE7F4BA8DA4E81AB")
